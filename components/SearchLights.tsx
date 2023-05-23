@@ -1,3 +1,4 @@
+
 import styles from '../styles/SearchLights.module.scss'
 
 export default function SearchLights() {
